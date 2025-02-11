@@ -29,8 +29,6 @@
         <groupId>io.netty</groupId>
         <artifactId>netty-codec-http2</artifactId>
         <version>4.1.39.Final</version>
-        <type>pom</type>
-        <scope>import</scope>
       </dependency>
     </dependencies>
   </dependencyManagement>
